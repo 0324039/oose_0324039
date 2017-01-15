@@ -12,7 +12,9 @@
 
 #班級	學號	姓名 	貢獻	工作
 資管3A	39號	陳怡靜	33.33%	UseCase、案例活動圖、強韌圖、循序圖、類別圖
+
 資管3A	49號	黃俊穎	33.33%	UseCase、案例活動圖、強韌圖、循序圖、類別圖
+
 資管3B	78號	詹右丞	33.33%	UseCase、案例活動圖、強韌圖、循序圖、類別圖
 #usecase
 
@@ -29,4 +31,5 @@
 ![4](https://cloud.githubusercontent.com/assets/22465809/20757032/c40879c0-b74f-11e6-94b8-1e7550626955.jpg)
 ![5](https://cloud.githubusercontent.com/assets/22465809/20757034/c609729c-b74f-11e6-9ed0-01da6d170338.jpg)
 ![6](https://cloud.githubusercontent.com/assets/22465809/20757038/c77ee346-b74f-11e6-9eae-e6ad2a482f9f.jpg)
-
+#類別圖
+![default](https://cloud.githubusercontent.com/assets/22465809/21962949/629a5fe2-db6b-11e6-80c1-35597476f01e.jpg)
